@@ -3,14 +3,18 @@ It's already been 10,000 blocks on our new network. Let's take a look at some of
 ## New GUI Wallet version v0.3.8 out
 This fixes a bug that was causing it to not fetch the public node list properly, please update as soon as you can if you are using this.
 
+![Image of XWallet](https://aeonclassic.org/img/xwallet-screen.png)
+
 https://github.com/Biolith/xwallet-electron/releases/download/0.3.8/XWallet-v0.3.8-win-setup.exe
 
 ## WebWallet release
 We've ported Shellnet, which is a fantastic webwallet coded by DSAnon, over so that anyone can send and receive Aeon Classic regardless of what kind of hardware they are on. IN addition, we've released an android app companion for it so you can log in on your phone. Please make sure you export your keys if you are using this; if you forget your password we will not be able to reset it. Export your keys and keep them somewhere safe.
 
+![Image of WebWallet](https://aeonclassic.org/img/webwallet-screen.png)
+
 https://xmlc.ml/
 
-## Website Redesign
+## Website Rewriting
 We've updated the releases portion of the website to point to the GUI wallet primarily instead of the command line. We think this well benefit our users by simplifing access to the network, and us nerds can still find the cli client if they so choose.
 We've also updated the message on our website in order to be a little more clear about our goals for this coin and why we started this project, it would mean alot if you'd check it out. 
 
